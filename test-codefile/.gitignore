@@ -1,0 +1,5 @@
+# Ignore .py files
+*.py
+
+# Ignore .css files
+*.css
